@@ -39,6 +39,9 @@ The Power BI dashboard includes:
    ```bash
    git clone https://github.com/suriyaprakash-a-53/Northwind_Analysis.git
 
+Dashboard Preview:-
+
+![Screenshot (5)](https://github.com/user-attachments/assets/4a32ec31-cb42-4841-a5bd-47fb93f646e9)
 
 
 🤝 Contributing
