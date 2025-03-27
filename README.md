@@ -37,7 +37,7 @@ The Power BI dashboard includes:
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suriyaprakash-a-53/northwind-analysis.git
+   git clone https://github.com/suriyaprakash-a-53/Northwind_Analysis.git
 
 
 
